@@ -5,22 +5,22 @@ Title
 This is test document.
 updated in develop branch.
 
-Sub Title
+Section 1
 =========
 
 - Sub section
 
-Sub sub title
--------------
+Sub title
+---------
 
 - Sub sub section
 
-Section 1
+Section 2
 =========
 
 extra info.
 
-Section 2
+Section 3
 =========
 
 other info.
