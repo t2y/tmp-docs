@@ -3,7 +3,6 @@ Title
 =====
 
 This is test document.
-updated in develop branch.
 
 Section 1
 =========
