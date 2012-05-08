@@ -2,7 +2,7 @@
 Title
 =====
 
-This is test document.
+This is test document for git.
 
 Section 1
 =========
