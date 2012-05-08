@@ -2,7 +2,7 @@
 Sample Tutorial
 ===============
 
-This is sample file.
+This is sample file for github/git.
 
 Get started
 ===========
