@@ -2,17 +2,24 @@
 Title
 =====
 
-:release: 0.1
+This is test document for git.
 
-This is test document.
-updated in develop branch.
-
-Sub Title
+Section 1
 =========
 
 - Sub section
 
-Sub sub title
--------------
+Sub title
+---------
 
 - Sub sub section
+
+Section 2
+=========
+
+extra info.
+
+Section 3
+=========
+
+other info.
