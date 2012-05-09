@@ -19,6 +19,9 @@ Section 2
 
 extra info.
 
+- no.1
+- no.2
+
 Section 3
 =========
 
