@@ -1,6 +1,6 @@
-===============
-Sample Tutorial
-===============
+========
+Tutorial
+========
 
 This is sample file for github/git.
 
